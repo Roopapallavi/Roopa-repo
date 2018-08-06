@@ -6,7 +6,10 @@ public class Main {
 		// TODO Auto-generated method stub
 				
 						System.out.println("Hello World!!.........");
+						
+						SalesClass class1=new SalesClass();
 						greet();
+						class1.show();
 
 	}
 	
