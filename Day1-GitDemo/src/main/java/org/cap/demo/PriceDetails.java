@@ -8,5 +8,7 @@ public class PriceDetails {
 						System.out.println(arr[i]);
 					}
 				}
-
+public void details() {
+	System.out.println("Swaroopa");
+}
 }

@@ -13,6 +13,7 @@ public class Main {
 						class1.show();
 						products.productDetails();
 						price.showPrices();
+						price.details();
 
 	}
 	
