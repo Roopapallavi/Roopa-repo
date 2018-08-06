@@ -11,4 +11,7 @@ public class PriceDetails {
 public void details() {
 	System.out.println("Swaroopa");
 }
+				public void display() {
+					System.out.println("Price Lsits");
+				}
 }

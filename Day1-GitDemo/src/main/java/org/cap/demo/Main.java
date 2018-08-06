@@ -12,6 +12,7 @@ public class Main {
 						greet();
 						class1.show();
 						products.productDetails();
+						price.display();
 						price.showPrices();
 						price.details();
 
