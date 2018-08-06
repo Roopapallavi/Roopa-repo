@@ -21,6 +21,9 @@ public class Main {
 	public static void greet() {
 		System.out.println("Hellooo...");
 		System.out.println("Swaroopaaa..");
+		System.out.println("Hellooo...");
+		System.out.println("Swaroopaaa..");	System.out.println("Hellooo...");
+		System.out.println("Swaroopaaa..");
 		for(int i=0;i<5;i++) {
 			System.out.println("haii"+i);
 		}
